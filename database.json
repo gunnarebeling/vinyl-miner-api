@@ -1,0 +1,156 @@
+{
+    "users":[
+        {
+            "id": 1,
+            "fullName": "Gunnar Ebeling",
+            "email": "gunnarebeling@icloud.com"
+        },
+        {
+            "id": 2,
+            "fullName": "Alex Johnson",
+            "email": "alex.johnson@example.com"
+          }
+    
+    ],
+    "vinyls":[
+        {
+            "id": 1,
+            "artist": "The Beatles",
+            "albumName": "Abbey Road",
+            "genreId": 1,  
+            "conditionId": 2,  
+            "albumArt": "abbey_road.jpg",
+            "userId": 1
+          },
+          {
+            "id": 2,
+            "artist": "Miles Davis",
+            "albumName": "Kind of Blue",
+            "genreId": 2,  
+            "conditionId": 3,  
+            "albumArt": "kind_of_blue.jpg",
+            "userId": 1
+          },
+          {
+            "id": 3,
+            "artist": "Kendrick Lamar",
+            "albumName": "To Pimp a Butterfly",
+            "genreId": 3, 
+            "conditionId": 1,  
+            "albumArt": "to_pimp_a_butterfly.jpg",
+            "userId": 1
+          },
+          {
+            "id": 4,
+            "artist": "Taylor Swift",
+            "albumName": "1989",
+            "genreId": 6,  
+            "conditionId": 4, 
+            "albumArt": "1989_album.jpg",
+            "userId": 1
+          },
+          {
+            "id": 5,
+            "artist": "Pink Floyd",
+            "albumName": "The Dark Side of the Moon",
+            "genreId": 1,  
+            "conditionId": 1,  
+            "albumArt": "dark_side_of_the_moon.jpg",
+            "userId": 2
+          },
+          {
+            "id": 6,
+            "artist": "Bob Marley",
+            "albumName": "Legend",
+            "genreId": 7,  
+            "conditionId": 3, 
+            "albumArt": "legend.jpg",
+            "userId": 2
+          },
+          {
+            "id": 7,
+            "artist": "Daft Punk",
+            "albumName": "Random Access Memories",
+            "genreId": 5,  
+            "conditionId": 2,  
+            "albumArt": "random_access_memories.jpg",
+            "userId": 2
+          },
+          {
+            "id": 8,
+            "artist": "Nirvana",
+            "albumName": "Nevermind",
+            "genreId": 1,  
+            "conditionId": 4,  
+            "albumArt": "nevermind.jpg",
+            "userId": 2
+          }
+
+    ],
+    "genres":[
+        {
+            "id": 1,
+            "name": "Rock"
+          },
+          {
+            "id": 2,
+            "name": "Jazz"
+          },
+          {
+            "id": 3,
+            "name": "Hip Hop"
+          },
+          {
+            "id": 4,
+            "name": "Classical"
+          },
+          {
+            "id": 5,
+            "name": "Electronic"
+          },
+          {
+            "id": 6,
+            "name": "Pop"
+          },
+          {
+            "id": 7,
+            "name": "Reggae"
+          },
+          {
+            "id": 8,
+            "name": "Country"
+          },
+          {
+            "id": 9,
+            "name": "Blues"
+          },
+          {
+            "id": 10,
+            "name": "R&B"
+          },
+          {
+            "id": 11,
+            "name": "indie"
+          }
+    ],
+    "conditions":[
+        {
+            "id": 1,
+            "name": "fair"
+          },
+          {
+            "id": 2,
+            "name": "Good"
+          },
+          {
+            "id": 3,
+            "name": "mint"
+          },
+          {
+            "id": 4,
+            "name": "New"
+          }
+    ]
+
+    
+}
