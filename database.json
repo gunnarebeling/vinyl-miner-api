@@ -14,84 +14,84 @@
   "vinyls": [
     {
       "id": 1,
-      "artist": "The Beatles",
       "albumName": "Abbey Road",
-      "genreId": 1,
+      "artist": "The Beatles",
       "conditionId": 2,
-      "albumArt": "https://tinyurl.com/AbbeyRoadArt",
+      "genreId": 1,
+      "albumArt": "https://m.media-amazon.com/images/I/619ibg3YiVS._SX300_SY300_QL70_FMwebp_.jpg",
       "userId": 1
     },
     {
       "id": 2,
-      "artist": "Miles Davis",
       "albumName": "Kind of Blue",
-      "genreId": 2,
+      "artist": "Miles Davis",
       "conditionId": 3,
-      "albumArt": "kind_of_blue.jpg",
+      "genreId": 2,
+      "albumArt": "https://tinyurl.com/kindofbluealbum",
       "userId": 1
     },
     {
       "id": 3,
-      "artist": "Kendrick Lamar",
       "albumName": "To Pimp a Butterfly",
-      "genreId": 3,
+      "artist": "Kendrick Lamar",
       "conditionId": 1,
-      "albumArt": "to_pimp_a_butterfly.jpg",
+      "genreId": 3,
+      "albumArt": "https://m.media-amazon.com/images/I/81s62lvABWL._SX522_.jpg",
       "userId": 1
     },
     {
       "id": 4,
-      "artist": "Taylor Swift",
       "albumName": "1989",
-      "genreId": 6,
+      "artist": "Taylor Swift",
       "conditionId": 4,
-      "albumArt": "1989_album.jpg",
+      "genreId": 6,
+      "albumArt": "https://m.media-amazon.com/images/I/41E3HAj-krL._SX300_SY300_QL70_FMwebp_.jpg",
       "userId": 1
     },
     {
       "id": 5,
-      "artist": "Pink Floyd",
       "albumName": "The Dark Side of the Moon",
-      "genreId": 1,
+      "artist": "Pink Floyd",
       "conditionId": 1,
-      "albumArt": "dark_side_of_the_moon.jpg",
+      "genreId": 1,
+      "albumArt": "https://m.media-amazon.com/images/I/61w4LV7wQlL._SX522_.jpg",
       "userId": 2
     },
     {
       "id": 6,
-      "artist": "Bob Marley",
       "albumName": "Legend",
-      "genreId": 7,
+      "artist": "Bob Marley",
       "conditionId": 3,
-      "albumArt": "legend.jpg",
+      "genreId": 7,
+      "albumArt": "https://m.media-amazon.com/images/I/51pkRFG5N5L._SY300_SX300_QL70_FMwebp_.jpg",
       "userId": 2
     },
     {
       "id": 7,
-      "artist": "Daft Punk",
       "albumName": "Random Access Memories",
-      "genreId": 5,
+      "artist": "Daft Punk",
       "conditionId": 2,
-      "albumArt": "random_access_memories.jpg",
+      "genreId": 5,
+      "albumArt": "https://m.media-amazon.com/images/I/411+2f739pL._SY300_.jpg",
       "userId": 2
     },
     {
       "id": 8,
-      "artist": "Nirvana",
       "albumName": "Nevermind",
-      "genreId": 1,
+      "artist": "Nirvana",
       "conditionId": 4,
-      "albumArt": "nevermind.jpg",
+      "genreId": 1,
+      "albumArt": "https://m.media-amazon.com/images/I/51hmhlRCfEL.jpg",
       "userId": 2
     },
     {
+      "id": 9,
       "albumName": "Salad Days",
       "artist": "Mac DeMarco",
-      "conditionId": 3,
+      "conditionId": 2,
       "genreId": 11,
-      "albumArt": "https://img.youtube.com/vi/0HQqXllXpfQ/hqdefault.jpg",
-      "userId": 1,
-      "id": 9
+      "albumArt": "https://m.media-amazon.com/images/I/41ACwJPxBvL._SL160_.jpg",
+      "userId": 1
     }
   ],
   "genres": [
