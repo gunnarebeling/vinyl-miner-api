@@ -167,5 +167,19 @@
       "name": "New"
     }
   ],
-  "likes":[]
+  "likes": [
+    {
+      "vinylId": 8,
+      "userId": 1,
+      "liked": true,
+      "id": 1
+    },
+    {
+      "vinylId": 6,
+      "userId": 1,
+      "liked": true,
+      "id": 2
+    }
+  ],
+  "trades":[]
 }
