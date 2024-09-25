@@ -2,7 +2,7 @@
   "users": [
     {
       "id": 1,
-      "fullName": "Gunnar Ebeling",
+      "fullName": "Gunnar guy",
       "email": "gunnarebeling@gmail.com"
     },
     {
@@ -25,7 +25,7 @@
       "id": 2,
       "albumName": "Kind of Blue",
       "artist": "Miles Davis",
-      "conditionId": 3,
+      "conditionId": 1,
       "genreId": 2,
       "albumArt": "https://tinyurl.com/kindofbluealbum",
       "userId": 1
@@ -92,6 +92,15 @@
       "genreId": 11,
       "albumArt": "https://m.media-amazon.com/images/I/41ACwJPxBvL._SL160_.jpg",
       "userId": 1
+    },
+    {
+      "albumName": "dfdffeddf",
+      "artist": "fdfdfdf",
+      "conditionId": 2,
+      "genreId": 2,
+      "albumArt": "",
+      "userId": 1,
+      "id": 10
     }
   ],
   "genres": [
@@ -157,5 +166,6 @@
       "id": 4,
       "name": "New"
     }
-  ]
+  ],
+  "likes":[]
 }
