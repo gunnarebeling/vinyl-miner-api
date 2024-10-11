@@ -2,13 +2,38 @@
   "users": [
     {
       "id": 1,
-      "fullName": "Gunnar guy",
-      "email": "gunnarebeling@gmail.com"
+      "fullName": "Gunnar Ebeling",
+      "email": "gunnarebeling@gmail.com",
+      "profileImage": "uehjskd7etf2qwaaati9"
     },
     {
       "id": 2,
       "fullName": "Alex Johnson",
-      "email": "alex.johnson@example.com"
+      "email": "alex.johnson@example.com",
+      "profileImage": "uh8nptzun3ymf9tpcxxs"
+    },
+    {
+      "email": "carlyolds@yahoo.com",
+      "fullName": "carly olds",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "fullName": "vin smith",
+      "email": "vinsmith@yahoo.com",
+      "profileImage": "qwcctebmtlw54erakkgy"
+    },
+    {
+      "email": "taz_mania@yahoo.com",
+      "fullName": "taz mania",
+      "profileImage": "qtvl4fzjxlfh2ve8j0bm",
+      "id": 5
+    },
+    {
+      "email": "ChuckNorris@aol.com",
+      "fullName": "Chuck Norris",
+      "profileImage": "k11lz6pacuzxalrk58oz",
+      "id": 6
     }
   ],
   "vinyls": [
@@ -19,33 +44,25 @@
       "conditionId": 2,
       "genreId": 1,
       "albumArt": "https://m.media-amazon.com/images/I/619ibg3YiVS._SX300_SY300_QL70_FMwebp_.jpg",
-      "userId": 1
+      "userId": 6
     },
     {
       "id": 2,
-      "albumName": "Kind of Blue",
+      "albumName": "Kind Of Blue (Legacy Edition)",
       "artist": "Miles Davis",
       "conditionId": 1,
       "genreId": 2,
-      "albumArt": "https://tinyurl.com/kindofbluealbum",
-      "userId": 1
-    },
-    {
-      "id": 3,
-      "albumName": "To Pimp a Butterfly",
-      "artist": "Kendrick Lamar",
-      "conditionId": 1,
-      "genreId": 3,
-      "albumArt": "https://m.media-amazon.com/images/I/81s62lvABWL._SX522_.jpg",
-      "userId": 1
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b2730ebc17239b6b18ba88cfb8ca",
+      "audioSample": "https://p.scdn.co/mp3-preview/d1a1a7b585e7bcf9becc2ab44938f6399fe90659?cid=719d5bcfe61842be951b6c6963129136",
+      "userId": 3
     },
     {
       "id": 4,
-      "albumName": "1989",
+      "albumName": "1989 (Taylor's Version)",
       "artist": "Taylor Swift",
       "conditionId": 4,
       "genreId": 6,
-      "albumArt": "https://m.media-amazon.com/images/I/41E3HAj-krL._SX300_SY300_QL70_FMwebp_.jpg",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b273904445d70d04eb24d6bb79ac",
       "userId": 1
     },
     {
@@ -54,7 +71,7 @@
       "artist": "Pink Floyd",
       "conditionId": 1,
       "genreId": 1,
-      "albumArt": "https://m.media-amazon.com/images/I/61w4LV7wQlL._SX522_.jpg",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b273ea7caaff71dea1051d49b2fe",
       "userId": 2
     },
     {
@@ -64,25 +81,7 @@
       "conditionId": 3,
       "genreId": 7,
       "albumArt": "https://m.media-amazon.com/images/I/51pkRFG5N5L._SY300_SX300_QL70_FMwebp_.jpg",
-      "userId": 2
-    },
-    {
-      "id": 7,
-      "albumName": "Random Access Memories",
-      "artist": "Daft Punk",
-      "conditionId": 2,
-      "genreId": 5,
-      "albumArt": "https://m.media-amazon.com/images/I/411+2f739pL._SY300_.jpg",
-      "userId": 2
-    },
-    {
-      "id": 8,
-      "albumName": "Nevermind",
-      "artist": "Nirvana",
-      "conditionId": 4,
-      "genreId": 1,
-      "albumArt": "https://m.media-amazon.com/images/I/51hmhlRCfEL.jpg",
-      "userId": 2
+      "userId": 1
     },
     {
       "id": 9,
@@ -90,17 +89,231 @@
       "artist": "Mac DeMarco",
       "conditionId": 2,
       "genreId": 11,
-      "albumArt": "https://m.media-amazon.com/images/I/41ACwJPxBvL._SL160_.jpg",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b273ec6e9c13eeed14eedbd5f7c9",
+      "audioSample": "https://p.scdn.co/mp3-preview/43117eb25849c0716deab1b963f76b94b33ac27c?cid=719d5bcfe61842be951b6c6963129136",
+      "userId": 3
+    },
+    {
+      "id": 12,
+      "albumName": "Is This It",
+      "artist": "The Strokes",
+      "conditionId": 3,
+      "genreId": 1,
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4",
       "userId": 1
     },
     {
-      "albumName": "dfdffeddf",
-      "artist": "fdfdfdf",
+      "id": 13,
+      "albumName": "A Rush of Blood to the Head",
+      "artist": "Coldplay",
+      "conditionId": 3,
+      "genreId": 1,
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82",
+      "audioSample": "https://p.scdn.co/mp3-preview/f7e9cd25226372aa711c7adbaf430f1cd6cd9b94?cid=719d5bcfe61842be951b6c6963129136",
+      "userId": 3
+    },
+    {
+      "id": 14,
+      "albumName": "MM..FOOD",
+      "artist": "MF DOOM",
+      "conditionId": 4,
+      "genreId": 3,
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b27352f194d02c39909d1b284799",
+      "audioSample": "https://p.scdn.co/mp3-preview/96d1afbc5b5502bab824989fb6498ff2d2598957?cid=719d5bcfe61842be951b6c6963129136",
+      "userId": 3
+    },
+    {
+      "id": 15,
+      "albumName": "Justice",
+      "artist": "Justice",
       "conditionId": 2,
-      "genreId": 2,
-      "albumArt": "",
-      "userId": 1,
-      "id": 10
+      "genreId": 5,
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b2731c0bcf8b536295438d26c70d",
+      "audioSample": "https://p.scdn.co/mp3-preview/55472f0781a3baa60e650302ce348524bc2b1b4b?cid=719d5bcfe61842be951b6c6963129136",
+      "userId": 3
+    },
+    {
+      "id": 16,
+      "albumName": "Golden Hour",
+      "artist": "Kacey Musgraves",
+      "conditionId": 2,
+      "genreId": 8,
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b2732e35d25eb7288830d5540484",
+      "userId": 1
+    },
+    {
+      "id": 17,
+      "albumName": "An Evening With Silk Sonic",
+      "artist": "Anderson.Paak, Bruno Mars",
+      "conditionId": 1,
+      "genreId": 10,
+      "albumArt": "https://m.media-amazon.com/images/I/91BT8rF0inL._SX522_.jpg",
+      "userId": 4
+    },
+    {
+      "id": 18,
+      "albumName": "In Utero (Deluxe Edition)",
+      "artist": "Nirvana",
+      "conditionId": 1,
+      "genreId": 1,
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b273aca059cebc1841277db22d1c",
+      "userId": 3
+    },
+    {
+      "id": 19,
+      "albumName": "The Chronic",
+      "artist": "Dr.Dre",
+      "conditionId": 2,
+      "genreId": 3,
+      "albumArt": "https://m.media-amazon.com/images/I/51Zz4aFj5kL._SX300_SY300_QL70_FMwebp_.jpg",
+      "userId": 3
+    },
+    {
+      "id": 20,
+      "albumName": "Veckatimest",
+      "artist": "Grizzly Bear",
+      "conditionId": 3,
+      "genreId": 11,
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b273aaa83532a319c37f1fb4180c",
+      "userId": 4
+    },
+    {
+      "id": 21,
+      "albumName": "Odelay",
+      "artist": "Beck",
+      "conditionId": 2,
+      "genreId": 11,
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b2733eedff0a0202da69fe1078de",
+      "userId": 3
+    },
+    {
+      "id": 22,
+      "albumName": "Romance",
+      "artist": "fontaines",
+      "conditionId": 2,
+      "genreId": 13,
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b273613f62075c85e0b853318026",
+      "userId": 2
+    },
+    {
+      "id": 23,
+      "albumName": "TANGK",
+      "artist": "IDLES",
+      "conditionId": 1,
+      "genreId": 12,
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b273838fbd7f0f3d02d2235cd121",
+      "audioSample": "https://p.scdn.co/mp3-preview/003815b0e789e240d328850b9545e83f3679526c?cid=719d5bcfe61842be951b6c6963129136",
+      "userId": 1
+    },
+    {
+      "id": 25,
+      "albumName": "Fleet Foxes",
+      "artist": "Fleet Foxes",
+      "conditionId": 2,
+      "genreId": 14,
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b2733818b4c636e2a7fdea3bf965",
+      "audioSample": "https://p.scdn.co/mp3-preview/65a89b3ead011b03c545d2e3e905cd1561f1ee17?cid=719d5bcfe61842be951b6c6963129136",
+      "userId": 6
+    },
+    {
+      "id": 26,
+      "albumName": "For Emma, Forever Ago",
+      "artist": "Bon Iver",
+      "conditionId": 4,
+      "genreId": 14,
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b273bf7c317a63c4f128b8823406",
+      "audioSample": "https://p.scdn.co/mp3-preview/bafa9f194cb8a8d58d2c280cd89e2b48f62ad155?cid=719d5bcfe61842be951b6c6963129136",
+      "userId": 6
+    },
+    {
+      "albumName": "Abbey Road (Remastered)",
+      "artist": "beatles",
+      "conditionId": 1,
+      "genreId": 1,
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25",
+      "artistName": "The Beatles",
+      "userId": 2,
+      "id": 27
+    },
+    {
+      "id": 28,
+      "albumName": "Pinkerton - Deluxe Edition",
+      "artist": "weezer",
+      "conditionId": 2,
+      "genreId": 1,
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b273b34530ac4a80275e3ff2faab",
+      "userId": 2
+    },
+    {
+      "albumName": "Whatever People Say I Am, That's What I'm Not",
+      "artist": "arctic monkey",
+      "conditionId": 1,
+      "genreId": 1,
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b2736b3fa88bdd4af566fbbf2bbf",
+      "artistName": "Arctic Monkeys",
+      "audioSample": "https://p.scdn.co/mp3-preview/def9843e0eaa79f4a5b41fcf0e9b1f9f7e931070?cid=719d5bcfe61842be951b6c6963129136",
+      "userId": 2,
+      "id": 29
+    },
+    {
+      "albumName": "La Lom",
+      "artist": "La Lom",
+      "conditionId": 2,
+      "genreId": 1,
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b273822d08d617e5667c9bc29728",
+      "artistName": "LA LOM",
+      "audioSample": "https://p.scdn.co/mp3-preview/31622e9e4d7e5defccefc22c3b93df2d5739951d?cid=719d5bcfe61842be951b6c6963129136",
+      "userId": 2,
+      "id": 30
+    },
+    {
+      "id": 31,
+      "albumName": "The Bends",
+      "artist": "radiohead",
+      "conditionId": 1,
+      "genreId": 1,
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12",
+      "audioSample": "https://p.scdn.co/mp3-preview/d71e01211c3fd0368356b8ea0c7348eab2299c8b?cid=719d5bcfe61842be951b6c6963129136",
+      "userId": 2
+    },
+    {
+      "albumName": "Red (Taylor's Version)",
+      "artist": "taylor swift",
+      "conditionId": 2,
+      "genreId": 1,
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b273318443aab3531a0558e79a4d",
+      "artistName": "Taylor Swift",
+      "userId": 2,
+      "id": 32
+    },
+    {
+      "id": 33,
+      "albumName": "Mama's Gun",
+      "artist": "erykah badu",
+      "conditionId": 1,
+      "genreId": 10,
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b2730d934cb462fae5a26f829efb",
+      "userId": 2
+    },
+    {
+      "id": 34,
+      "albumName": "Back In Black",
+      "artist": "AC/DC",
+      "conditionId": 2,
+      "genreId": 1,
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b2730b51f8d91f3a21e8426361ae",
+      "audioSample": "https://p.scdn.co/mp3-preview/63f8bf5471d413befecf9dd100665726f980b1b5?cid=719d5bcfe61842be951b6c6963129136",
+      "userId": 1
+    },
+    {
+      "albumName": "InnerSpeaker",
+      "artist": "tame impala",
+      "conditionId": 3,
+      "genreId": 13,
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b273176e82d09ac75d62810f0056",
+      "artistName": "Tame Impala",
+      "userId": 2,
+      "id": 35
     }
   ],
   "genres": [
@@ -147,6 +360,22 @@
     {
       "id": 11,
       "name": "indie"
+    },
+    {
+      "id": 12,
+      "name": "Punk"
+    },
+    {
+      "id": 13,
+      "name": "Alternative"
+    },
+    {
+      "id": 14,
+      "name": "Folk"
+    },
+    {
+      "id": 15,
+      "name": "Metal"
     }
   ],
   "conditions": [
@@ -169,17 +398,274 @@
   ],
   "likes": [
     {
-      "vinylId": 8,
+      "vinylId": 6,
       "userId": 1,
+      "liked": false,
+      "id": 2
+    },
+    {
+      "vinylId": 1,
+      "userId": 1,
+      "liked": false,
+      "id": 3
+    },
+    {
+      "vinylId": 9,
+      "userId": 3,
       "liked": true,
-      "id": 1
+      "id": 4
+    },
+    {
+      "vinylId": 4,
+      "userId": 3,
+      "liked": true,
+      "id": 8
     },
     {
       "vinylId": 6,
+      "userId": 3,
+      "liked": true,
+      "id": 10
+    },
+    {
+      "vinylId": 2,
+      "userId": 3,
+      "liked": true,
+      "id": 11
+    },
+    {
+      "vinylId": 1,
+      "userId": 3,
+      "liked": true,
+      "id": 12
+    },
+    {
+      "vinylId": 9,
+      "userId": 1,
+      "liked": false,
+      "id": 14
+    },
+    {
+      "vinylId": 4,
+      "userId": 2,
+      "liked": true,
+      "id": 16
+    },
+    {
+      "vinylId": 9,
+      "userId": 2,
+      "liked": true,
+      "id": 17
+    },
+    {
+      "vinylId": 12,
+      "userId": 2,
+      "liked": false,
+      "id": 19
+    },
+    {
+      "vinylId": 5,
+      "userId": 2,
+      "liked": true,
+      "id": 21
+    },
+    {
+      "vinylId": 2,
+      "userId": 2,
+      "liked": false,
+      "id": 23
+    },
+    {
+      "vinylId": 12,
+      "userId": 3,
+      "liked": true,
+      "id": 24
+    },
+    {
+      "vinylId": 16,
       "userId": 1,
       "liked": true,
-      "id": 2
+      "id": 26
+    },
+    {
+      "vinylId": 15,
+      "userId": 1,
+      "liked": true,
+      "id": 27
+    },
+    {
+      "vinylId": 14,
+      "userId": 1,
+      "liked": true,
+      "id": 28
+    },
+    {
+      "vinylId": 13,
+      "userId": 1,
+      "liked": true,
+      "id": 29
+    },
+    {
+      "vinylId": 12,
+      "userId": 1,
+      "liked": true,
+      "id": 30
+    },
+    {
+      "vinylId": 17,
+      "userId": 1,
+      "liked": true,
+      "id": 31
+    },
+    {
+      "vinylId": 2,
+      "userId": 1,
+      "liked": true,
+      "id": 33
+    },
+    {
+      "vinylId": 4,
+      "userId": 1,
+      "liked": true,
+      "id": 34
+    },
+    {
+      "vinylId": 19,
+      "userId": 3,
+      "liked": true,
+      "id": 35
+    },
+    {
+      "vinylId": 18,
+      "userId": 3,
+      "liked": true,
+      "id": 36
+    },
+    {
+      "vinylId": 14,
+      "userId": 3,
+      "liked": true,
+      "id": 37
+    },
+    {
+      "vinylId": 20,
+      "userId": 1,
+      "liked": true,
+      "id": 38
+    },
+    {
+      "vinylId": 21,
+      "userId": 1,
+      "liked": true,
+      "id": 39
+    },
+    {
+      "vinylId": 22,
+      "userId": 1,
+      "liked": true,
+      "id": 40
+    },
+    {
+      "vinylId": 22,
+      "userId": 6,
+      "liked": false,
+      "id": 41
+    },
+    {
+      "vinylId": 19,
+      "userId": 6,
+      "liked": true,
+      "id": 42
+    },
+    {
+      "vinylId": 5,
+      "userId": 3,
+      "liked": true,
+      "id": 43
+    },
+    {
+      "vinylId": 20,
+      "userId": 4,
+      "liked": true,
+      "id": 44
+    },
+    {
+      "vinylId": 26,
+      "userId": 1,
+      "liked": true,
+      "id": 45
+    },
+    {
+      "vinylId": 27,
+      "userId": 1,
+      "liked": true,
+      "id": 46
+    },
+    {
+      "vinylId": 28,
+      "userId": 1,
+      "liked": true,
+      "id": 47
+    },
+    {
+      "vinylId": 31,
+      "userId": 1,
+      "liked": true,
+      "id": 48
+    },
+    {
+      "vinylId": 25,
+      "userId": 1,
+      "liked": true,
+      "id": 49
+    },
+    {
+      "vinylId": 18,
+      "userId": 1,
+      "liked": true,
+      "id": 50
+    },
+    {
+      "vinylId": 19,
+      "userId": 1,
+      "liked": true,
+      "id": 51
+    },
+    {
+      "vinylId": 34,
+      "userId": 2,
+      "liked": false,
+      "id": 52
+    },
+    {
+      "vinylId": 29,
+      "userId": 1,
+      "liked": false,
+      "id": 53
     }
   ],
-  "trades":[]
+  "trades": [
+    {
+      "tradeInitVinylId": 34,
+      "tradeOfferVinylId": 29,
+      "id": 1
+    }
+  ],
+  "follows": [
+    {
+      "followingUserId": 2,
+      "followedUserId": 1,
+      "id": 1
+    },
+    {
+      "followingUserId": 2,
+      "followedUserId": 3,
+      "id": 2
+    },
+    {
+      "followingUserId": 1,
+      "followedUserId": 4,
+      "id": 4
+    }
+  ]
 }
