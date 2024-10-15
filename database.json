@@ -4,35 +4,41 @@
       "id": 1,
       "fullName": "Gunnar Ebeling",
       "email": "gunnarebeling@gmail.com",
-      "profileImage": "uehjskd7etf2qwaaati9"
+      "profileImage": "pr1e2xtzyayvseczbdey",
+      "password": "password"
     },
     {
       "id": 2,
       "fullName": "Alex Johnson",
       "email": "alex.johnson@example.com",
-      "profileImage": "uh8nptzun3ymf9tpcxxs"
+      "profileImage": "uh8nptzun3ymf9tpcxxs",
+      "password": "password"
     },
     {
       "email": "carlyolds@yahoo.com",
       "fullName": "carly olds",
-      "id": 3
+      "id": 3,
+      "password": "password"
     },
     {
       "id": 4,
       "fullName": "vin smith",
       "email": "vinsmith@yahoo.com",
-      "profileImage": "qwcctebmtlw54erakkgy"
+      "profileImage": "qwcctebmtlw54erakkgy",
+      "password": "password"
     },
     {
       "email": "taz_mania@yahoo.com",
       "fullName": "taz mania",
       "profileImage": "qtvl4fzjxlfh2ve8j0bm",
+      "password": "password",
       "id": 5
     },
     {
       "email": "ChuckNorris@aol.com",
       "fullName": "Chuck Norris",
       "profileImage": "k11lz6pacuzxalrk58oz",
+      "password": "password",
       "id": 6
     }
   ],
@@ -57,15 +63,6 @@
       "userId": 3
     },
     {
-      "id": 4,
-      "albumName": "1989 (Taylor's Version)",
-      "artist": "Taylor Swift",
-      "conditionId": 4,
-      "genreId": 6,
-      "albumArt": "https://i.scdn.co/image/ab67616d0000b273904445d70d04eb24d6bb79ac",
-      "userId": 1
-    },
-    {
       "id": 5,
       "albumName": "The Dark Side of the Moon",
       "artist": "Pink Floyd",
@@ -76,11 +73,11 @@
     },
     {
       "id": 6,
-      "albumName": "Legend",
+      "albumName": "Legend - The Best Of Bob Marley And The Wailers",
       "artist": "Bob Marley",
       "conditionId": 3,
       "genreId": 7,
-      "albumArt": "https://m.media-amazon.com/images/I/51pkRFG5N5L._SY300_SX300_QL70_FMwebp_.jpg",
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b273413a6c2c7b296d98171e5e21",
       "userId": 1
     },
     {
@@ -100,7 +97,7 @@
       "conditionId": 3,
       "genreId": 1,
       "albumArt": "https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4",
-      "userId": 1
+      "userId": 2
     },
     {
       "id": 13,
@@ -139,7 +136,7 @@
       "conditionId": 2,
       "genreId": 8,
       "albumArt": "https://i.scdn.co/image/ab67616d0000b2732e35d25eb7288830d5540484",
-      "userId": 1
+      "userId": 2
     },
     {
       "id": 17,
@@ -202,8 +199,7 @@
       "conditionId": 1,
       "genreId": 12,
       "albumArt": "https://i.scdn.co/image/ab67616d0000b273838fbd7f0f3d02d2235cd121",
-      "audioSample": "https://p.scdn.co/mp3-preview/003815b0e789e240d328850b9545e83f3679526c?cid=719d5bcfe61842be951b6c6963129136",
-      "userId": 1
+      "userId": 2
     },
     {
       "id": 25,
@@ -245,26 +241,22 @@
       "userId": 2
     },
     {
+      "id": 29,
       "albumName": "Whatever People Say I Am, That's What I'm Not",
       "artist": "arctic monkey",
       "conditionId": 1,
       "genreId": 1,
       "albumArt": "https://i.scdn.co/image/ab67616d0000b2736b3fa88bdd4af566fbbf2bbf",
-      "artistName": "Arctic Monkeys",
-      "audioSample": "https://p.scdn.co/mp3-preview/def9843e0eaa79f4a5b41fcf0e9b1f9f7e931070?cid=719d5bcfe61842be951b6c6963129136",
-      "userId": 2,
-      "id": 29
+      "userId": 1
     },
     {
+      "id": 30,
       "albumName": "La Lom",
       "artist": "La Lom",
       "conditionId": 2,
-      "genreId": 1,
+      "genreId": 2,
       "albumArt": "https://i.scdn.co/image/ab67616d0000b273822d08d617e5667c9bc29728",
-      "artistName": "LA LOM",
-      "audioSample": "https://p.scdn.co/mp3-preview/31622e9e4d7e5defccefc22c3b93df2d5739951d?cid=719d5bcfe61842be951b6c6963129136",
-      "userId": 2,
-      "id": 30
+      "userId": 1
     },
     {
       "id": 31,
@@ -273,18 +265,16 @@
       "conditionId": 1,
       "genreId": 1,
       "albumArt": "https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12",
-      "audioSample": "https://p.scdn.co/mp3-preview/d71e01211c3fd0368356b8ea0c7348eab2299c8b?cid=719d5bcfe61842be951b6c6963129136",
       "userId": 2
     },
     {
+      "id": 32,
       "albumName": "Red (Taylor's Version)",
       "artist": "taylor swift",
       "conditionId": 2,
       "genreId": 1,
       "albumArt": "https://i.scdn.co/image/ab67616d0000b273318443aab3531a0558e79a4d",
-      "artistName": "Taylor Swift",
-      "userId": 2,
-      "id": 32
+      "userId": 1
     },
     {
       "id": 33,
@@ -293,7 +283,7 @@
       "conditionId": 1,
       "genreId": 10,
       "albumArt": "https://i.scdn.co/image/ab67616d0000b2730d934cb462fae5a26f829efb",
-      "userId": 2
+      "userId": 1
     },
     {
       "id": 34,
@@ -302,8 +292,7 @@
       "conditionId": 2,
       "genreId": 1,
       "albumArt": "https://i.scdn.co/image/ab67616d0000b2730b51f8d91f3a21e8426361ae",
-      "audioSample": "https://p.scdn.co/mp3-preview/63f8bf5471d413befecf9dd100665726f980b1b5?cid=719d5bcfe61842be951b6c6963129136",
-      "userId": 1
+      "userId": 2
     },
     {
       "albumName": "InnerSpeaker",
@@ -314,6 +303,15 @@
       "artistName": "Tame Impala",
       "userId": 2,
       "id": 35
+    },
+    {
+      "id": 36,
+      "albumName": "\"Heroes\" (2017 Remaster)",
+      "artist": "David Bowie",
+      "conditionId": 1,
+      "genreId": 1,
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b273204f41d52743c6a9efd62985",
+      "userId": 1
     }
   ],
   "genres": [
@@ -398,28 +396,10 @@
   ],
   "likes": [
     {
-      "vinylId": 6,
-      "userId": 1,
-      "liked": false,
-      "id": 2
-    },
-    {
-      "vinylId": 1,
-      "userId": 1,
-      "liked": false,
-      "id": 3
-    },
-    {
       "vinylId": 9,
       "userId": 3,
       "liked": true,
       "id": 4
-    },
-    {
-      "vinylId": 4,
-      "userId": 3,
-      "liked": true,
-      "id": 8
     },
     {
       "vinylId": 6,
@@ -438,18 +418,6 @@
       "userId": 3,
       "liked": true,
       "id": 12
-    },
-    {
-      "vinylId": 9,
-      "userId": 1,
-      "liked": false,
-      "id": 14
-    },
-    {
-      "vinylId": 4,
-      "userId": 2,
-      "liked": true,
-      "id": 16
     },
     {
       "vinylId": 9,
@@ -482,52 +450,16 @@
       "id": 24
     },
     {
-      "vinylId": 16,
-      "userId": 1,
-      "liked": true,
-      "id": 26
-    },
-    {
-      "vinylId": 15,
-      "userId": 1,
-      "liked": true,
-      "id": 27
-    },
-    {
-      "vinylId": 14,
-      "userId": 1,
-      "liked": true,
-      "id": 28
-    },
-    {
       "vinylId": 13,
       "userId": 1,
       "liked": true,
       "id": 29
     },
     {
-      "vinylId": 12,
-      "userId": 1,
-      "liked": true,
-      "id": 30
-    },
-    {
       "vinylId": 17,
       "userId": 1,
       "liked": true,
       "id": 31
-    },
-    {
-      "vinylId": 2,
-      "userId": 1,
-      "liked": true,
-      "id": 33
-    },
-    {
-      "vinylId": 4,
-      "userId": 1,
-      "liked": true,
-      "id": 34
     },
     {
       "vinylId": 19,
@@ -590,18 +522,6 @@
       "id": 44
     },
     {
-      "vinylId": 26,
-      "userId": 1,
-      "liked": true,
-      "id": 45
-    },
-    {
-      "vinylId": 27,
-      "userId": 1,
-      "liked": true,
-      "id": 46
-    },
-    {
       "vinylId": 28,
       "userId": 1,
       "liked": true,
@@ -620,37 +540,169 @@
       "id": 49
     },
     {
+      "vinylId": 34,
+      "userId": 2,
+      "liked": true,
+      "id": 52
+    },
+    {
+      "vinylId": 33,
+      "userId": 2,
+      "liked": true,
+      "id": 56
+    },
+    {
+      "vinylId": 29,
+      "userId": 2,
+      "liked": true,
+      "id": 57
+    },
+    {
+      "vinylId": 30,
+      "userId": 2,
+      "liked": true,
+      "id": 58
+    },
+    {
+      "vinylId": 32,
+      "userId": 2,
+      "liked": true,
+      "id": 59
+    },
+    {
+      "vinylId": 28,
+      "userId": 2,
+      "liked": true,
+      "id": 60
+    },
+    {
+      "vinylId": 27,
+      "userId": 2,
+      "liked": true,
+      "id": 61
+    },
+    {
+      "vinylId": 31,
+      "userId": 2,
+      "liked": true,
+      "id": 62
+    },
+    {
+      "vinylId": 22,
+      "userId": 2,
+      "liked": false,
+      "id": 63
+    },
+    {
+      "vinylId": 30,
+      "userId": 1,
+      "liked": true,
+      "id": 65
+    },
+    {
+      "vinylId": 26,
+      "userId": 1,
+      "liked": true,
+      "id": 67
+    },
+    {
+      "vinylId": 27,
+      "userId": 1,
+      "liked": true,
+      "id": 68
+    },
+    {
       "vinylId": 18,
       "userId": 1,
       "liked": true,
-      "id": 50
+      "id": 70
     },
     {
       "vinylId": 19,
       "userId": 1,
       "liked": true,
-      "id": 51
+      "id": 71
     },
     {
       "vinylId": 34,
-      "userId": 2,
-      "liked": false,
-      "id": 52
+      "userId": 1,
+      "liked": true,
+      "id": 77
     },
     {
-      "vinylId": 29,
+      "vinylId": 33,
       "userId": 1,
-      "liked": false,
-      "id": 53
-    }
-  ],
-  "trades": [
+      "liked": true,
+      "id": 78
+    },
     {
-      "tradeInitVinylId": 34,
-      "tradeOfferVinylId": 29,
-      "id": 1
+      "vinylId": 32,
+      "userId": 1,
+      "liked": true,
+      "id": 82
+    },
+    {
+      "vinylId": 23,
+      "userId": 1,
+      "liked": true,
+      "id": 83
+    },
+    {
+      "vinylId": 35,
+      "userId": 1,
+      "liked": true,
+      "id": 85
+    },
+    {
+      "vinylId": 15,
+      "userId": 1,
+      "liked": true,
+      "id": 86
+    },
+    {
+      "vinylId": 6,
+      "userId": 1,
+      "liked": true,
+      "id": 87
+    },
+    {
+      "vinylId": 5,
+      "userId": 1,
+      "liked": true,
+      "id": 88
+    },
+    {
+      "vinylId": 2,
+      "userId": 1,
+      "liked": true,
+      "id": 89
+    },
+    {
+      "vinylId": 1,
+      "userId": 1,
+      "liked": true,
+      "id": 90
+    },
+    {
+      "vinylId": 9,
+      "userId": 1,
+      "liked": true,
+      "id": 91
+    },
+    {
+      "vinylId": 36,
+      "userId": 1,
+      "liked": true,
+      "id": 92
+    },
+    {
+      "vinylId": 36,
+      "userId": 2,
+      "liked": true,
+      "id": 93
     }
   ],
+  "trades": [],
   "follows": [
     {
       "followingUserId": 2,
@@ -663,9 +715,29 @@
       "id": 2
     },
     {
+      "followingUserId": 14,
+      "followedUserId": 1,
+      "id": 5
+    },
+    {
+      "followingUserId": 1,
+      "followedUserId": 14,
+      "id": 6
+    },
+    {
+      "followingUserId": 2,
+      "followedUserId": 14,
+      "id": 7
+    },
+    {
+      "followingUserId": 1,
+      "followedUserId": 2,
+      "id": 8
+    },
+    {
       "followingUserId": 1,
       "followedUserId": 4,
-      "id": 4
+      "id": 9
     }
   ]
 }
