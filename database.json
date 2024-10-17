@@ -4,7 +4,7 @@
       "id": 1,
       "fullName": "Gunnar Ebeling",
       "email": "gunnarebeling@gmail.com",
-      "profileImage": "pr1e2xtzyayvseczbdey",
+      "profileImage": "vkki5efwk8cod4ojgnwn",
       "password": "password"
     },
     {
@@ -69,6 +69,7 @@
       "conditionId": 1,
       "genreId": 1,
       "albumArt": "https://i.scdn.co/image/ab67616d0000b273ea7caaff71dea1051d49b2fe",
+      "audioSample": "https://p.scdn.co/mp3-preview/e90a9d168993a59ba0a58cc1afbac8914ce28dad?cid=719d5bcfe61842be951b6c6963129136",
       "userId": 2
     },
     {
@@ -190,6 +191,7 @@
       "conditionId": 2,
       "genreId": 13,
       "albumArt": "https://i.scdn.co/image/ab67616d0000b273613f62075c85e0b853318026",
+      "audioSample": "https://p.scdn.co/mp3-preview/120252de8eae906586dc3edba452e235d6389f40?cid=719d5bcfe61842be951b6c6963129136",
       "userId": 2
     },
     {
@@ -199,6 +201,7 @@
       "conditionId": 1,
       "genreId": 12,
       "albumArt": "https://i.scdn.co/image/ab67616d0000b273838fbd7f0f3d02d2235cd121",
+      "audioSample": "https://p.scdn.co/mp3-preview/003815b0e789e240d328850b9545e83f3679526c?cid=719d5bcfe61842be951b6c6963129136",
       "userId": 2
     },
     {
@@ -222,14 +225,13 @@
       "userId": 6
     },
     {
+      "id": 27,
       "albumName": "Abbey Road (Remastered)",
       "artist": "beatles",
       "conditionId": 1,
       "genreId": 1,
       "albumArt": "https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25",
-      "artistName": "The Beatles",
-      "userId": 2,
-      "id": 27
+      "userId": 2
     },
     {
       "id": 28,
@@ -247,7 +249,8 @@
       "conditionId": 1,
       "genreId": 1,
       "albumArt": "https://i.scdn.co/image/ab67616d0000b2736b3fa88bdd4af566fbbf2bbf",
-      "userId": 1
+      "audioSample": "https://p.scdn.co/mp3-preview/def9843e0eaa79f4a5b41fcf0e9b1f9f7e931070?cid=719d5bcfe61842be951b6c6963129136",
+      "userId": 2
     },
     {
       "id": 30,
@@ -256,6 +259,7 @@
       "conditionId": 2,
       "genreId": 2,
       "albumArt": "https://i.scdn.co/image/ab67616d0000b273822d08d617e5667c9bc29728",
+      "audioSample": "https://p.scdn.co/mp3-preview/31622e9e4d7e5defccefc22c3b93df2d5739951d?cid=719d5bcfe61842be951b6c6963129136",
       "userId": 1
     },
     {
@@ -265,6 +269,7 @@
       "conditionId": 1,
       "genreId": 1,
       "albumArt": "https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12",
+      "audioSample": "https://p.scdn.co/mp3-preview/d71e01211c3fd0368356b8ea0c7348eab2299c8b?cid=719d5bcfe61842be951b6c6963129136",
       "userId": 2
     },
     {
@@ -272,7 +277,7 @@
       "albumName": "Red (Taylor's Version)",
       "artist": "taylor swift",
       "conditionId": 2,
-      "genreId": 1,
+      "genreId": 6,
       "albumArt": "https://i.scdn.co/image/ab67616d0000b273318443aab3531a0558e79a4d",
       "userId": 1
     },
@@ -292,17 +297,17 @@
       "conditionId": 2,
       "genreId": 1,
       "albumArt": "https://i.scdn.co/image/ab67616d0000b2730b51f8d91f3a21e8426361ae",
+      "audioSample": "https://p.scdn.co/mp3-preview/63f8bf5471d413befecf9dd100665726f980b1b5?cid=719d5bcfe61842be951b6c6963129136",
       "userId": 2
     },
     {
+      "id": 35,
       "albumName": "InnerSpeaker",
       "artist": "tame impala",
       "conditionId": 3,
       "genreId": 13,
       "albumArt": "https://i.scdn.co/image/ab67616d0000b273176e82d09ac75d62810f0056",
-      "artistName": "Tame Impala",
-      "userId": 2,
-      "id": 35
+      "userId": 1
     },
     {
       "id": 36,
@@ -311,6 +316,7 @@
       "conditionId": 1,
       "genreId": 1,
       "albumArt": "https://i.scdn.co/image/ab67616d0000b273204f41d52743c6a9efd62985",
+      "audioSample": "https://p.scdn.co/mp3-preview/f66ffe891acd9cd4494bf690b31f4ef16279bbb2?cid=719d5bcfe61842be951b6c6963129136",
       "userId": 1
     }
   ],
@@ -612,12 +618,6 @@
       "id": 68
     },
     {
-      "vinylId": 18,
-      "userId": 1,
-      "liked": true,
-      "id": 70
-    },
-    {
       "vinylId": 19,
       "userId": 1,
       "liked": true,
@@ -646,18 +646,6 @@
       "userId": 1,
       "liked": true,
       "id": 83
-    },
-    {
-      "vinylId": 35,
-      "userId": 1,
-      "liked": true,
-      "id": 85
-    },
-    {
-      "vinylId": 15,
-      "userId": 1,
-      "liked": true,
-      "id": 86
     },
     {
       "vinylId": 6,
@@ -691,15 +679,21 @@
     },
     {
       "vinylId": 36,
-      "userId": 1,
-      "liked": true,
-      "id": 92
-    },
-    {
-      "vinylId": 36,
       "userId": 2,
       "liked": true,
       "id": 93
+    },
+    {
+      "vinylId": 18,
+      "userId": 1,
+      "liked": true,
+      "id": 94
+    },
+    {
+      "vinylId": 15,
+      "userId": 1,
+      "liked": true,
+      "id": 95
     }
   ],
   "trades": [],
@@ -733,11 +727,6 @@
       "followingUserId": 1,
       "followedUserId": 2,
       "id": 8
-    },
-    {
-      "followingUserId": 1,
-      "followedUserId": 4,
-      "id": 9
     }
   ]
 }
