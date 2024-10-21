@@ -4,8 +4,9 @@
       "id": 1,
       "fullName": "Gunnar Ebeling",
       "email": "gunnarebeling@gmail.com",
-      "profileImage": "vkki5efwk8cod4ojgnwn",
+      "profileImage": "v48ssyiwsqz1gras1cyo",
       "password": "password"
+      
     },
     {
       "id": 2,
@@ -534,12 +535,6 @@
       "id": 47
     },
     {
-      "vinylId": 31,
-      "userId": 1,
-      "liked": true,
-      "id": 48
-    },
-    {
       "vinylId": 25,
       "userId": 1,
       "liked": true,
@@ -694,9 +689,26 @@
       "userId": 1,
       "liked": true,
       "id": 95
+    },
+    {
+      "vinylId": 31,
+      "userId": 1,
+      "liked": true,
+      "id": 96
     }
   ],
-  "trades": [],
+  "trades": [
+    {
+      "tradeInitVinylId": 31,
+      "tradeOfferVinylId": 30,
+      "id": 1
+    },
+    {
+      "tradeInitVinylId": 27,
+      "tradeOfferVinylId": 30,
+      "id": 2
+    }
+  ],
   "follows": [
     {
       "followingUserId": 2,
