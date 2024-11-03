@@ -1,0 +1,14 @@
+{
+  "name": "vinyl-miner-api",
+  "version": "1.0.0",
+  "description": "This is the repo for my mockdatabase serving to my vinyl-miners app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx json-server --watch -p 8088 database.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {"json-server": "^1.0.0-beta.3"}
+}
