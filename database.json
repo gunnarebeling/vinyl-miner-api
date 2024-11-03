@@ -2,6 +2,7 @@
   "users": [
     {
       "id": 1,
+
       "fullName": "Gunnar smith",
       "email": "gunnarebeling@gmail.com",
       "profileImage": "v48ssyiwsqz1gras1cyo",
@@ -14,7 +15,7 @@
       "profileImage": "lehovrhzydyyskpivhug"
     },
     {
-      "email": "carlyolds@yahoo.com",
+      "email": "carlyolds@example.com",
       "fullName": "carly olds",
       "id": 3,
       "password": "password"
