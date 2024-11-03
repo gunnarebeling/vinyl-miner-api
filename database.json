@@ -2,18 +2,16 @@
   "users": [
     {
       "id": 1,
-      "fullName": "Gunnar Ebeling",
+      "fullName": "Gunnar smith",
       "email": "gunnarebeling@gmail.com",
       "profileImage": "v48ssyiwsqz1gras1cyo",
       "password": "password"
-      
     },
     {
       "id": 2,
       "fullName": "Alex Johnson",
       "email": "alex.johnson@example.com",
-      "profileImage": "uh8nptzun3ymf9tpcxxs",
-      "password": "password"
+      "profileImage": "lehovrhzydyyskpivhug"
     },
     {
       "email": "carlyolds@yahoo.com",
@@ -99,7 +97,7 @@
       "conditionId": 3,
       "genreId": 1,
       "albumArt": "https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4",
-      "userId": 2
+      "userId": 1
     },
     {
       "id": 13,
@@ -226,15 +224,6 @@
       "userId": 6
     },
     {
-      "id": 27,
-      "albumName": "Abbey Road (Remastered)",
-      "artist": "beatles",
-      "conditionId": 1,
-      "genreId": 1,
-      "albumArt": "https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25",
-      "userId": 2
-    },
-    {
       "id": 28,
       "albumName": "Pinkerton - Deluxe Edition",
       "artist": "weezer",
@@ -260,8 +249,7 @@
       "conditionId": 2,
       "genreId": 2,
       "albumArt": "https://i.scdn.co/image/ab67616d0000b273822d08d617e5667c9bc29728",
-      "audioSample": "https://p.scdn.co/mp3-preview/31622e9e4d7e5defccefc22c3b93df2d5739951d?cid=719d5bcfe61842be951b6c6963129136",
-      "userId": 1
+      "userId": 2
     },
     {
       "id": 31,
@@ -270,7 +258,6 @@
       "conditionId": 1,
       "genreId": 1,
       "albumArt": "https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12",
-      "audioSample": "https://p.scdn.co/mp3-preview/d71e01211c3fd0368356b8ea0c7348eab2299c8b?cid=719d5bcfe61842be951b6c6963129136",
       "userId": 2
     },
     {
@@ -311,14 +298,15 @@
       "userId": 1
     },
     {
-      "id": 36,
-      "albumName": "\"Heroes\" (2017 Remaster)",
-      "artist": "David Bowie",
-      "conditionId": 1,
+      "albumName": "Purple Rain",
+      "artist": "prince",
+      "conditionId": 3,
       "genreId": 1,
-      "albumArt": "https://i.scdn.co/image/ab67616d0000b273204f41d52743c6a9efd62985",
-      "audioSample": "https://p.scdn.co/mp3-preview/f66ffe891acd9cd4494bf690b31f4ef16279bbb2?cid=719d5bcfe61842be951b6c6963129136",
-      "userId": 1
+      "albumArt": "https://i.scdn.co/image/ab67616d0000b2738a2ce3f148f57584269c3782",
+      "artistName": "Prince",
+      "audioSample": "https://p.scdn.co/mp3-preview/2060da11535d45b9c3baa76de001eed8ac06e726?cid=719d5bcfe61842be951b6c6963129136",
+      "userId": 1,
+      "id": 37
     }
   ],
   "genres": [
@@ -577,12 +565,6 @@
       "id": 60
     },
     {
-      "vinylId": 27,
-      "userId": 2,
-      "liked": true,
-      "id": 61
-    },
-    {
       "vinylId": 31,
       "userId": 2,
       "liked": true,
@@ -595,22 +577,10 @@
       "id": 63
     },
     {
-      "vinylId": 30,
-      "userId": 1,
-      "liked": true,
-      "id": 65
-    },
-    {
       "vinylId": 26,
       "userId": 1,
       "liked": true,
       "id": 67
-    },
-    {
-      "vinylId": 27,
-      "userId": 1,
-      "liked": true,
-      "id": 68
     },
     {
       "vinylId": 19,
@@ -673,12 +643,6 @@
       "id": 91
     },
     {
-      "vinylId": 36,
-      "userId": 2,
-      "liked": true,
-      "id": 93
-    },
-    {
       "vinylId": 18,
       "userId": 1,
       "liked": true,
@@ -695,30 +659,26 @@
       "userId": 1,
       "liked": true,
       "id": 96
-    }
-  ],
-  "trades": [
-    {
-      "tradeInitVinylId": 31,
-      "tradeOfferVinylId": 30,
-      "id": 1
     },
     {
-      "tradeInitVinylId": 27,
-      "tradeOfferVinylId": 30,
-      "id": 2
+      "vinylId": 29,
+      "userId": 1,
+      "liked": true,
+      "id": 97
+    },
+    {
+      "vinylId": 30,
+      "userId": 1,
+      "liked": true,
+      "id": 98
     }
   ],
+  "trades": [],
   "follows": [
     {
       "followingUserId": 2,
       "followedUserId": 1,
       "id": 1
-    },
-    {
-      "followingUserId": 2,
-      "followedUserId": 3,
-      "id": 2
     },
     {
       "followingUserId": 14,
